@@ -6,7 +6,7 @@ A smart, sensor-integrated elevator prototype designed to eliminate unnecessary 
 
 ## 📽️ Demo
 
-▶️ [Watch the working model video](LINK_TO_YOUR_VIDEO_ON_GDRIVE_OR_YOUTUBE)
+▶️ [Watch the working model video]((https://drive.google.com/file/d/1if8Rj_7sFI3fdlbPxIgC5ltkuuGLcmUc/view?usp=sharing))
 
 ---
 
